@@ -1,0 +1,438 @@
+C:\Users\mdiazs\Desktop\WebApi2017\WebApi\bin\ApplicationInsights.config
+C:\Users\mdiazs\Desktop\WebApi2017\WebApi\bin\roslyn\csc.exe
+C:\Users\mdiazs\Desktop\WebApi2017\WebApi\bin\roslyn\csc.exe.config
+C:\Users\mdiazs\Desktop\WebApi2017\WebApi\bin\roslyn\csc.rsp
+C:\Users\mdiazs\Desktop\WebApi2017\WebApi\bin\roslyn\csi.exe
+C:\Users\mdiazs\Desktop\WebApi2017\WebApi\bin\roslyn\csi.rsp
+C:\Users\mdiazs\Desktop\WebApi2017\WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mdiazs\Desktop\WebApi2017\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mdiazs\Desktop\WebApi2017\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\mdiazs\Desktop\WebApi2017\WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mdiazs\Desktop\WebApi2017\WebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\mdiazs\Desktop\WebApi2017\WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mdiazs\Desktop\WebApi2017\WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mdiazs\Desktop\WebApi2017\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\mdiazs\Desktop\WebApi2017\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\mdiazs\Desktop\WebApi2017\WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mdiazs\Desktop\WebApi2017\WebApi\bin\roslyn\System.AppContext.dll
+C:\Users\mdiazs\Desktop\WebApi2017\WebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mdiazs\Desktop\WebApi2017\WebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\mdiazs\Desktop\WebApi2017\WebApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\mdiazs\Desktop\WebApi2017\WebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\mdiazs\Desktop\WebApi2017\WebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mdiazs\Desktop\WebApi2017\WebApi\bin\roslyn\vbc.exe
+C:\Users\mdiazs\Desktop\WebApi2017\WebApi\bin\roslyn\vbc.exe.config
+C:\Users\mdiazs\Desktop\WebApi2017\WebApi\bin\roslyn\vbc.rsp
+C:\Users\mdiazs\Desktop\WebApi2017\WebApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\mdiazs\Desktop\WebApi2017\WebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mdiazs\Desktop\WebApi2017\WebApi\bin\WebApi.dll.config
+C:\Users\mdiazs\Desktop\WebApi2017\WebApi\bin\WebApi.dll
+C:\Users\mdiazs\Desktop\WebApi2017\WebApi\bin\WebApi.pdb
+C:\Users\mdiazs\Desktop\WebApi2017\WebApi\bin\Antlr3.Runtime.dll
+C:\Users\mdiazs\Desktop\WebApi2017\WebApi\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\mdiazs\Desktop\WebApi2017\WebApi\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\mdiazs\Desktop\WebApi2017\WebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\mdiazs\Desktop\WebApi2017\WebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\mdiazs\Desktop\WebApi2017\WebApi\bin\Microsoft.AI.Web.dll
+C:\Users\mdiazs\Desktop\WebApi2017\WebApi\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\mdiazs\Desktop\WebApi2017\WebApi\bin\Microsoft.ApplicationInsights.dll
+C:\Users\mdiazs\Desktop\WebApi2017\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mdiazs\Desktop\WebApi2017\WebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mdiazs\Desktop\WebApi2017\WebApi\bin\Newtonsoft.Json.dll
+C:\Users\mdiazs\Desktop\WebApi2017\WebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\mdiazs\Desktop\WebApi2017\WebApi\bin\System.Web.Cors.dll
+C:\Users\mdiazs\Desktop\WebApi2017\WebApi\bin\System.Web.Helpers.dll
+C:\Users\mdiazs\Desktop\WebApi2017\WebApi\bin\System.Web.Http.Cors.dll
+C:\Users\mdiazs\Desktop\WebApi2017\WebApi\bin\System.Web.Http.dll
+C:\Users\mdiazs\Desktop\WebApi2017\WebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\mdiazs\Desktop\WebApi2017\WebApi\bin\System.Web.Mvc.dll
+C:\Users\mdiazs\Desktop\WebApi2017\WebApi\bin\System.Web.Optimization.dll
+C:\Users\mdiazs\Desktop\WebApi2017\WebApi\bin\System.Web.Razor.dll
+C:\Users\mdiazs\Desktop\WebApi2017\WebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\mdiazs\Desktop\WebApi2017\WebApi\bin\System.Web.WebPages.dll
+C:\Users\mdiazs\Desktop\WebApi2017\WebApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\mdiazs\Desktop\WebApi2017\WebApi\bin\WebGrease.dll
+C:\Users\mdiazs\Desktop\WebApi2017\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mdiazs\Desktop\WebApi2017\WebApi\bin\System.Web.Http.Cors.xml
+C:\Users\mdiazs\Desktop\WebApi2017\WebApi\bin\Newtonsoft.Json.xml
+C:\Users\mdiazs\Desktop\WebApi2017\WebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\mdiazs\Desktop\WebApi2017\WebApi\bin\System.Web.Helpers.xml
+C:\Users\mdiazs\Desktop\WebApi2017\WebApi\bin\System.Web.Http.xml
+C:\Users\mdiazs\Desktop\WebApi2017\WebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\mdiazs\Desktop\WebApi2017\WebApi\bin\System.Web.Mvc.xml
+C:\Users\mdiazs\Desktop\WebApi2017\WebApi\bin\System.Web.Optimization.xml
+C:\Users\mdiazs\Desktop\WebApi2017\WebApi\bin\System.Web.Razor.xml
+C:\Users\mdiazs\Desktop\WebApi2017\WebApi\bin\System.Web.WebPages.xml
+C:\Users\mdiazs\Desktop\WebApi2017\WebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\mdiazs\Desktop\WebApi2017\WebApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\mdiazs\Desktop\WebApi2017\WebApi\bin\Antlr3.Runtime.pdb
+C:\Users\mdiazs\Desktop\WebApi2017\WebApi\bin\Microsoft.ApplicationInsights.xml
+C:\Users\mdiazs\Desktop\WebApi2017\WebApi\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\mdiazs\Desktop\WebApi2017\WebApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\mdiazs\Desktop\WebApi2017\WebApi\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\mdiazs\Desktop\WebApi2017\WebApi\bin\Microsoft.AI.Web.xml
+C:\Users\mdiazs\Desktop\WebApi2017\WebApi\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\mdiazs\Desktop\WebApi2017\WebApi\bin\es\System.Web.Helpers.resources.dll
+C:\Users\mdiazs\Desktop\WebApi2017\WebApi\bin\es\System.Web.Http.resources.dll
+C:\Users\mdiazs\Desktop\WebApi2017\WebApi\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\mdiazs\Desktop\WebApi2017\WebApi\bin\es\System.Web.Mvc.resources.dll
+C:\Users\mdiazs\Desktop\WebApi2017\WebApi\bin\es\System.Web.Optimization.resources.dll
+C:\Users\mdiazs\Desktop\WebApi2017\WebApi\bin\es\System.Web.Razor.resources.dll
+C:\Users\mdiazs\Desktop\WebApi2017\WebApi\bin\es\System.Web.WebPages.resources.dll
+C:\Users\mdiazs\Desktop\WebApi2017\WebApi\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\mdiazs\Desktop\WebApi2017\WebApi\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\mdiazs\Desktop\WebApi2017\WebApi\obj\Debug\WebApi.csprojResolveAssemblyReference.cache
+C:\Users\mdiazs\Desktop\WebApi2017\WebApi\obj\Debug\WebApi.dll
+C:\Users\mdiazs\Desktop\WebApi2017\WebApi\obj\Debug\WebApi.pdb
+C:\Users\cvargasl\documents\visual studio 2017\Projects\WebApi2017\WebApi\bin\ApplicationInsights.config
+C:\Users\cvargasl\documents\visual studio 2017\Projects\WebApi2017\WebApi\bin\roslyn\csc.exe
+C:\Users\cvargasl\documents\visual studio 2017\Projects\WebApi2017\WebApi\bin\roslyn\csc.exe.config
+C:\Users\cvargasl\documents\visual studio 2017\Projects\WebApi2017\WebApi\bin\roslyn\csc.rsp
+C:\Users\cvargasl\documents\visual studio 2017\Projects\WebApi2017\WebApi\bin\roslyn\csi.exe
+C:\Users\cvargasl\documents\visual studio 2017\Projects\WebApi2017\WebApi\bin\roslyn\csi.rsp
+C:\Users\cvargasl\documents\visual studio 2017\Projects\WebApi2017\WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\cvargasl\documents\visual studio 2017\Projects\WebApi2017\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\cvargasl\documents\visual studio 2017\Projects\WebApi2017\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\cvargasl\documents\visual studio 2017\Projects\WebApi2017\WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\cvargasl\documents\visual studio 2017\Projects\WebApi2017\WebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\cvargasl\documents\visual studio 2017\Projects\WebApi2017\WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\cvargasl\documents\visual studio 2017\Projects\WebApi2017\WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\cvargasl\documents\visual studio 2017\Projects\WebApi2017\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\cvargasl\documents\visual studio 2017\Projects\WebApi2017\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\cvargasl\documents\visual studio 2017\Projects\WebApi2017\WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\cvargasl\documents\visual studio 2017\Projects\WebApi2017\WebApi\bin\roslyn\System.AppContext.dll
+C:\Users\cvargasl\documents\visual studio 2017\Projects\WebApi2017\WebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\cvargasl\documents\visual studio 2017\Projects\WebApi2017\WebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\cvargasl\documents\visual studio 2017\Projects\WebApi2017\WebApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\cvargasl\documents\visual studio 2017\Projects\WebApi2017\WebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\cvargasl\documents\visual studio 2017\Projects\WebApi2017\WebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\cvargasl\documents\visual studio 2017\Projects\WebApi2017\WebApi\bin\roslyn\vbc.exe
+C:\Users\cvargasl\documents\visual studio 2017\Projects\WebApi2017\WebApi\bin\roslyn\vbc.exe.config
+C:\Users\cvargasl\documents\visual studio 2017\Projects\WebApi2017\WebApi\bin\roslyn\vbc.rsp
+C:\Users\cvargasl\documents\visual studio 2017\Projects\WebApi2017\WebApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\cvargasl\documents\visual studio 2017\Projects\WebApi2017\WebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\cvargasl\documents\visual studio 2017\Projects\WebApi2017\WebApi\bin\WebApi.dll.config
+C:\Users\cvargasl\documents\visual studio 2017\Projects\WebApi2017\WebApi\bin\WebApi.dll
+C:\Users\cvargasl\documents\visual studio 2017\Projects\WebApi2017\WebApi\bin\WebApi.pdb
+C:\Users\cvargasl\documents\visual studio 2017\Projects\WebApi2017\WebApi\bin\Antlr3.Runtime.dll
+C:\Users\cvargasl\documents\visual studio 2017\Projects\WebApi2017\WebApi\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\cvargasl\documents\visual studio 2017\Projects\WebApi2017\WebApi\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\cvargasl\documents\visual studio 2017\Projects\WebApi2017\WebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\cvargasl\documents\visual studio 2017\Projects\WebApi2017\WebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\cvargasl\documents\visual studio 2017\Projects\WebApi2017\WebApi\bin\Microsoft.AI.Web.dll
+C:\Users\cvargasl\documents\visual studio 2017\Projects\WebApi2017\WebApi\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\cvargasl\documents\visual studio 2017\Projects\WebApi2017\WebApi\bin\Microsoft.ApplicationInsights.dll
+C:\Users\cvargasl\documents\visual studio 2017\Projects\WebApi2017\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\cvargasl\documents\visual studio 2017\Projects\WebApi2017\WebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\cvargasl\documents\visual studio 2017\Projects\WebApi2017\WebApi\bin\Newtonsoft.Json.dll
+C:\Users\cvargasl\documents\visual studio 2017\Projects\WebApi2017\WebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\cvargasl\documents\visual studio 2017\Projects\WebApi2017\WebApi\bin\System.Web.Cors.dll
+C:\Users\cvargasl\documents\visual studio 2017\Projects\WebApi2017\WebApi\bin\System.Web.Helpers.dll
+C:\Users\cvargasl\documents\visual studio 2017\Projects\WebApi2017\WebApi\bin\System.Web.Http.Cors.dll
+C:\Users\cvargasl\documents\visual studio 2017\Projects\WebApi2017\WebApi\bin\System.Web.Http.dll
+C:\Users\cvargasl\documents\visual studio 2017\Projects\WebApi2017\WebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\cvargasl\documents\visual studio 2017\Projects\WebApi2017\WebApi\bin\System.Web.Mvc.dll
+C:\Users\cvargasl\documents\visual studio 2017\Projects\WebApi2017\WebApi\bin\System.Web.Optimization.dll
+C:\Users\cvargasl\documents\visual studio 2017\Projects\WebApi2017\WebApi\bin\System.Web.Razor.dll
+C:\Users\cvargasl\documents\visual studio 2017\Projects\WebApi2017\WebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\cvargasl\documents\visual studio 2017\Projects\WebApi2017\WebApi\bin\System.Web.WebPages.dll
+C:\Users\cvargasl\documents\visual studio 2017\Projects\WebApi2017\WebApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\cvargasl\documents\visual studio 2017\Projects\WebApi2017\WebApi\bin\WebGrease.dll
+C:\Users\cvargasl\documents\visual studio 2017\Projects\WebApi2017\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\cvargasl\documents\visual studio 2017\Projects\WebApi2017\WebApi\bin\System.Web.Http.Cors.xml
+C:\Users\cvargasl\documents\visual studio 2017\Projects\WebApi2017\WebApi\bin\Newtonsoft.Json.xml
+C:\Users\cvargasl\documents\visual studio 2017\Projects\WebApi2017\WebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\cvargasl\documents\visual studio 2017\Projects\WebApi2017\WebApi\bin\System.Web.Helpers.xml
+C:\Users\cvargasl\documents\visual studio 2017\Projects\WebApi2017\WebApi\bin\System.Web.Http.xml
+C:\Users\cvargasl\documents\visual studio 2017\Projects\WebApi2017\WebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\cvargasl\documents\visual studio 2017\Projects\WebApi2017\WebApi\bin\System.Web.Mvc.xml
+C:\Users\cvargasl\documents\visual studio 2017\Projects\WebApi2017\WebApi\bin\System.Web.Optimization.xml
+C:\Users\cvargasl\documents\visual studio 2017\Projects\WebApi2017\WebApi\bin\System.Web.Razor.xml
+C:\Users\cvargasl\documents\visual studio 2017\Projects\WebApi2017\WebApi\bin\System.Web.WebPages.xml
+C:\Users\cvargasl\documents\visual studio 2017\Projects\WebApi2017\WebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\cvargasl\documents\visual studio 2017\Projects\WebApi2017\WebApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\cvargasl\documents\visual studio 2017\Projects\WebApi2017\WebApi\bin\Antlr3.Runtime.pdb
+C:\Users\cvargasl\documents\visual studio 2017\Projects\WebApi2017\WebApi\bin\Microsoft.ApplicationInsights.xml
+C:\Users\cvargasl\documents\visual studio 2017\Projects\WebApi2017\WebApi\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\cvargasl\documents\visual studio 2017\Projects\WebApi2017\WebApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\cvargasl\documents\visual studio 2017\Projects\WebApi2017\WebApi\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\cvargasl\documents\visual studio 2017\Projects\WebApi2017\WebApi\bin\Microsoft.AI.Web.xml
+C:\Users\cvargasl\documents\visual studio 2017\Projects\WebApi2017\WebApi\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\cvargasl\documents\visual studio 2017\Projects\WebApi2017\WebApi\bin\es\System.Web.Helpers.resources.dll
+C:\Users\cvargasl\documents\visual studio 2017\Projects\WebApi2017\WebApi\bin\es\System.Web.Http.resources.dll
+C:\Users\cvargasl\documents\visual studio 2017\Projects\WebApi2017\WebApi\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\cvargasl\documents\visual studio 2017\Projects\WebApi2017\WebApi\bin\es\System.Web.Mvc.resources.dll
+C:\Users\cvargasl\documents\visual studio 2017\Projects\WebApi2017\WebApi\bin\es\System.Web.Optimization.resources.dll
+C:\Users\cvargasl\documents\visual studio 2017\Projects\WebApi2017\WebApi\bin\es\System.Web.Razor.resources.dll
+C:\Users\cvargasl\documents\visual studio 2017\Projects\WebApi2017\WebApi\bin\es\System.Web.WebPages.resources.dll
+C:\Users\cvargasl\documents\visual studio 2017\Projects\WebApi2017\WebApi\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\cvargasl\documents\visual studio 2017\Projects\WebApi2017\WebApi\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\cvargasl\documents\visual studio 2017\Projects\WebApi2017\WebApi\obj\Debug\WebApi.csprojResolveAssemblyReference.cache
+C:\Users\cvargasl\documents\visual studio 2017\Projects\WebApi2017\WebApi\obj\Debug\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\cvargasl\documents\visual studio 2017\Projects\WebApi2017\WebApi\obj\Debug\WebApi.dll
+C:\Users\cvargasl\documents\visual studio 2017\Projects\WebApi2017\WebApi\obj\Debug\WebApi.pdb
+C:\Users\mdiazs\Desktop\WebApi2017\WebApi\obj\Debug\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\cvargasl\Documents\Visual Studio 2017\TicketQrApi\WebApi\bin\ApplicationInsights.config
+C:\Users\cvargasl\Documents\Visual Studio 2017\TicketQrApi\WebApi\bin\roslyn\csc.exe
+C:\Users\cvargasl\Documents\Visual Studio 2017\TicketQrApi\WebApi\bin\roslyn\csc.exe.config
+C:\Users\cvargasl\Documents\Visual Studio 2017\TicketQrApi\WebApi\bin\roslyn\csc.rsp
+C:\Users\cvargasl\Documents\Visual Studio 2017\TicketQrApi\WebApi\bin\roslyn\csi.exe
+C:\Users\cvargasl\Documents\Visual Studio 2017\TicketQrApi\WebApi\bin\roslyn\csi.rsp
+C:\Users\cvargasl\Documents\Visual Studio 2017\TicketQrApi\WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\cvargasl\Documents\Visual Studio 2017\TicketQrApi\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\cvargasl\Documents\Visual Studio 2017\TicketQrApi\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\cvargasl\Documents\Visual Studio 2017\TicketQrApi\WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\cvargasl\Documents\Visual Studio 2017\TicketQrApi\WebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\cvargasl\Documents\Visual Studio 2017\TicketQrApi\WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\cvargasl\Documents\Visual Studio 2017\TicketQrApi\WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\cvargasl\Documents\Visual Studio 2017\TicketQrApi\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\cvargasl\Documents\Visual Studio 2017\TicketQrApi\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\cvargasl\Documents\Visual Studio 2017\TicketQrApi\WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\cvargasl\Documents\Visual Studio 2017\TicketQrApi\WebApi\bin\roslyn\System.AppContext.dll
+C:\Users\cvargasl\Documents\Visual Studio 2017\TicketQrApi\WebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\cvargasl\Documents\Visual Studio 2017\TicketQrApi\WebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\cvargasl\Documents\Visual Studio 2017\TicketQrApi\WebApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\cvargasl\Documents\Visual Studio 2017\TicketQrApi\WebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\cvargasl\Documents\Visual Studio 2017\TicketQrApi\WebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\cvargasl\Documents\Visual Studio 2017\TicketQrApi\WebApi\bin\roslyn\vbc.exe
+C:\Users\cvargasl\Documents\Visual Studio 2017\TicketQrApi\WebApi\bin\roslyn\vbc.exe.config
+C:\Users\cvargasl\Documents\Visual Studio 2017\TicketQrApi\WebApi\bin\roslyn\vbc.rsp
+C:\Users\cvargasl\Documents\Visual Studio 2017\TicketQrApi\WebApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\cvargasl\Documents\Visual Studio 2017\TicketQrApi\WebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\cvargasl\Documents\Visual Studio 2017\TicketQrApi\WebApi\bin\WebApi.dll.config
+C:\Users\cvargasl\Documents\Visual Studio 2017\TicketQrApi\WebApi\bin\WebApi.dll
+C:\Users\cvargasl\Documents\Visual Studio 2017\TicketQrApi\WebApi\bin\WebApi.pdb
+C:\Users\cvargasl\Documents\Visual Studio 2017\TicketQrApi\WebApi\bin\Antlr3.Runtime.dll
+C:\Users\cvargasl\Documents\Visual Studio 2017\TicketQrApi\WebApi\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\cvargasl\Documents\Visual Studio 2017\TicketQrApi\WebApi\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\cvargasl\Documents\Visual Studio 2017\TicketQrApi\WebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\cvargasl\Documents\Visual Studio 2017\TicketQrApi\WebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\cvargasl\Documents\Visual Studio 2017\TicketQrApi\WebApi\bin\Microsoft.AI.Web.dll
+C:\Users\cvargasl\Documents\Visual Studio 2017\TicketQrApi\WebApi\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\cvargasl\Documents\Visual Studio 2017\TicketQrApi\WebApi\bin\Microsoft.ApplicationInsights.dll
+C:\Users\cvargasl\Documents\Visual Studio 2017\TicketQrApi\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\cvargasl\Documents\Visual Studio 2017\TicketQrApi\WebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\cvargasl\Documents\Visual Studio 2017\TicketQrApi\WebApi\bin\Newtonsoft.Json.dll
+C:\Users\cvargasl\Documents\Visual Studio 2017\TicketQrApi\WebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\cvargasl\Documents\Visual Studio 2017\TicketQrApi\WebApi\bin\System.Web.Cors.dll
+C:\Users\cvargasl\Documents\Visual Studio 2017\TicketQrApi\WebApi\bin\System.Web.Helpers.dll
+C:\Users\cvargasl\Documents\Visual Studio 2017\TicketQrApi\WebApi\bin\System.Web.Http.Cors.dll
+C:\Users\cvargasl\Documents\Visual Studio 2017\TicketQrApi\WebApi\bin\System.Web.Http.dll
+C:\Users\cvargasl\Documents\Visual Studio 2017\TicketQrApi\WebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\cvargasl\Documents\Visual Studio 2017\TicketQrApi\WebApi\bin\System.Web.Mvc.dll
+C:\Users\cvargasl\Documents\Visual Studio 2017\TicketQrApi\WebApi\bin\System.Web.Optimization.dll
+C:\Users\cvargasl\Documents\Visual Studio 2017\TicketQrApi\WebApi\bin\System.Web.Razor.dll
+C:\Users\cvargasl\Documents\Visual Studio 2017\TicketQrApi\WebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\cvargasl\Documents\Visual Studio 2017\TicketQrApi\WebApi\bin\System.Web.WebPages.dll
+C:\Users\cvargasl\Documents\Visual Studio 2017\TicketQrApi\WebApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\cvargasl\Documents\Visual Studio 2017\TicketQrApi\WebApi\bin\WebGrease.dll
+C:\Users\cvargasl\Documents\Visual Studio 2017\TicketQrApi\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\cvargasl\Documents\Visual Studio 2017\TicketQrApi\WebApi\bin\System.Web.Http.Cors.xml
+C:\Users\cvargasl\Documents\Visual Studio 2017\TicketQrApi\WebApi\bin\Newtonsoft.Json.xml
+C:\Users\cvargasl\Documents\Visual Studio 2017\TicketQrApi\WebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\cvargasl\Documents\Visual Studio 2017\TicketQrApi\WebApi\bin\System.Web.Helpers.xml
+C:\Users\cvargasl\Documents\Visual Studio 2017\TicketQrApi\WebApi\bin\System.Web.Http.xml
+C:\Users\cvargasl\Documents\Visual Studio 2017\TicketQrApi\WebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\cvargasl\Documents\Visual Studio 2017\TicketQrApi\WebApi\bin\System.Web.Mvc.xml
+C:\Users\cvargasl\Documents\Visual Studio 2017\TicketQrApi\WebApi\bin\System.Web.Optimization.xml
+C:\Users\cvargasl\Documents\Visual Studio 2017\TicketQrApi\WebApi\bin\System.Web.Razor.xml
+C:\Users\cvargasl\Documents\Visual Studio 2017\TicketQrApi\WebApi\bin\System.Web.WebPages.xml
+C:\Users\cvargasl\Documents\Visual Studio 2017\TicketQrApi\WebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\cvargasl\Documents\Visual Studio 2017\TicketQrApi\WebApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\cvargasl\Documents\Visual Studio 2017\TicketQrApi\WebApi\bin\Antlr3.Runtime.pdb
+C:\Users\cvargasl\Documents\Visual Studio 2017\TicketQrApi\WebApi\bin\Microsoft.ApplicationInsights.xml
+C:\Users\cvargasl\Documents\Visual Studio 2017\TicketQrApi\WebApi\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\cvargasl\Documents\Visual Studio 2017\TicketQrApi\WebApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\cvargasl\Documents\Visual Studio 2017\TicketQrApi\WebApi\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\cvargasl\Documents\Visual Studio 2017\TicketQrApi\WebApi\bin\Microsoft.AI.Web.xml
+C:\Users\cvargasl\Documents\Visual Studio 2017\TicketQrApi\WebApi\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\cvargasl\Documents\Visual Studio 2017\TicketQrApi\WebApi\bin\es\System.Web.Helpers.resources.dll
+C:\Users\cvargasl\Documents\Visual Studio 2017\TicketQrApi\WebApi\bin\es\System.Web.Http.resources.dll
+C:\Users\cvargasl\Documents\Visual Studio 2017\TicketQrApi\WebApi\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\cvargasl\Documents\Visual Studio 2017\TicketQrApi\WebApi\bin\es\System.Web.Mvc.resources.dll
+C:\Users\cvargasl\Documents\Visual Studio 2017\TicketQrApi\WebApi\bin\es\System.Web.Optimization.resources.dll
+C:\Users\cvargasl\Documents\Visual Studio 2017\TicketQrApi\WebApi\bin\es\System.Web.Razor.resources.dll
+C:\Users\cvargasl\Documents\Visual Studio 2017\TicketQrApi\WebApi\bin\es\System.Web.WebPages.resources.dll
+C:\Users\cvargasl\Documents\Visual Studio 2017\TicketQrApi\WebApi\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\cvargasl\Documents\Visual Studio 2017\TicketQrApi\WebApi\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\cvargasl\Documents\Visual Studio 2017\TicketQrApi\WebApi\obj\Debug\WebApi.csprojAssemblyReference.cache
+C:\Users\cvargasl\Documents\Visual Studio 2017\TicketQrApi\WebApi\obj\Debug\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\cvargasl\Documents\Visual Studio 2017\TicketQrApi\WebApi\obj\Debug\WebApi.csproj.CopyComplete
+C:\Users\cvargasl\Documents\Visual Studio 2017\TicketQrApi\WebApi\obj\Debug\WebApi.dll
+C:\Users\cvargasl\Documents\Visual Studio 2017\TicketQrApi\WebApi\obj\Debug\WebApi.pdb
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQr\Api\TicketQrApi\WebApi\bin\ApplicationInsights.config
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQr\Api\TicketQrApi\WebApi\bin\roslyn\csc.exe
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQr\Api\TicketQrApi\WebApi\bin\roslyn\csc.exe.config
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQr\Api\TicketQrApi\WebApi\bin\roslyn\csc.rsp
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQr\Api\TicketQrApi\WebApi\bin\roslyn\csi.exe
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQr\Api\TicketQrApi\WebApi\bin\roslyn\csi.rsp
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQr\Api\TicketQrApi\WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQr\Api\TicketQrApi\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQr\Api\TicketQrApi\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQr\Api\TicketQrApi\WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQr\Api\TicketQrApi\WebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQr\Api\TicketQrApi\WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQr\Api\TicketQrApi\WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQr\Api\TicketQrApi\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQr\Api\TicketQrApi\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQr\Api\TicketQrApi\WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQr\Api\TicketQrApi\WebApi\bin\roslyn\System.AppContext.dll
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQr\Api\TicketQrApi\WebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQr\Api\TicketQrApi\WebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQr\Api\TicketQrApi\WebApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQr\Api\TicketQrApi\WebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQr\Api\TicketQrApi\WebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQr\Api\TicketQrApi\WebApi\bin\roslyn\vbc.exe
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQr\Api\TicketQrApi\WebApi\bin\roslyn\vbc.exe.config
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQr\Api\TicketQrApi\WebApi\bin\roslyn\vbc.rsp
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQr\Api\TicketQrApi\WebApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQr\Api\TicketQrApi\WebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQr\Api\TicketQrApi\WebApi\bin\WebApi.dll.config
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQr\Api\TicketQrApi\WebApi\bin\WebApi.dll
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQr\Api\TicketQrApi\WebApi\bin\WebApi.pdb
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQr\Api\TicketQrApi\WebApi\bin\Antlr3.Runtime.dll
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQr\Api\TicketQrApi\WebApi\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQr\Api\TicketQrApi\WebApi\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQr\Api\TicketQrApi\WebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQr\Api\TicketQrApi\WebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQr\Api\TicketQrApi\WebApi\bin\Microsoft.AI.Web.dll
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQr\Api\TicketQrApi\WebApi\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQr\Api\TicketQrApi\WebApi\bin\Microsoft.ApplicationInsights.dll
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQr\Api\TicketQrApi\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQr\Api\TicketQrApi\WebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQr\Api\TicketQrApi\WebApi\bin\Newtonsoft.Json.dll
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQr\Api\TicketQrApi\WebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQr\Api\TicketQrApi\WebApi\bin\System.Web.Cors.dll
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQr\Api\TicketQrApi\WebApi\bin\System.Web.Helpers.dll
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQr\Api\TicketQrApi\WebApi\bin\System.Web.Http.Cors.dll
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQr\Api\TicketQrApi\WebApi\bin\System.Web.Http.dll
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQr\Api\TicketQrApi\WebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQr\Api\TicketQrApi\WebApi\bin\System.Web.Mvc.dll
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQr\Api\TicketQrApi\WebApi\bin\System.Web.Optimization.dll
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQr\Api\TicketQrApi\WebApi\bin\System.Web.Razor.dll
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQr\Api\TicketQrApi\WebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQr\Api\TicketQrApi\WebApi\bin\System.Web.WebPages.dll
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQr\Api\TicketQrApi\WebApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQr\Api\TicketQrApi\WebApi\bin\WebGrease.dll
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQr\Api\TicketQrApi\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQr\Api\TicketQrApi\WebApi\bin\System.Web.Http.Cors.xml
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQr\Api\TicketQrApi\WebApi\bin\Newtonsoft.Json.xml
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQr\Api\TicketQrApi\WebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQr\Api\TicketQrApi\WebApi\bin\System.Web.Helpers.xml
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQr\Api\TicketQrApi\WebApi\bin\System.Web.Http.xml
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQr\Api\TicketQrApi\WebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQr\Api\TicketQrApi\WebApi\bin\System.Web.Mvc.xml
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQr\Api\TicketQrApi\WebApi\bin\System.Web.Optimization.xml
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQr\Api\TicketQrApi\WebApi\bin\System.Web.Razor.xml
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQr\Api\TicketQrApi\WebApi\bin\System.Web.WebPages.xml
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQr\Api\TicketQrApi\WebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQr\Api\TicketQrApi\WebApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQr\Api\TicketQrApi\WebApi\bin\Antlr3.Runtime.pdb
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQr\Api\TicketQrApi\WebApi\bin\Microsoft.ApplicationInsights.xml
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQr\Api\TicketQrApi\WebApi\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQr\Api\TicketQrApi\WebApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQr\Api\TicketQrApi\WebApi\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQr\Api\TicketQrApi\WebApi\bin\Microsoft.AI.Web.xml
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQr\Api\TicketQrApi\WebApi\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQr\Api\TicketQrApi\WebApi\bin\es\System.Web.Helpers.resources.dll
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQr\Api\TicketQrApi\WebApi\bin\es\System.Web.Http.resources.dll
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQr\Api\TicketQrApi\WebApi\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQr\Api\TicketQrApi\WebApi\bin\es\System.Web.Mvc.resources.dll
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQr\Api\TicketQrApi\WebApi\bin\es\System.Web.Optimization.resources.dll
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQr\Api\TicketQrApi\WebApi\bin\es\System.Web.Razor.resources.dll
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQr\Api\TicketQrApi\WebApi\bin\es\System.Web.WebPages.resources.dll
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQr\Api\TicketQrApi\WebApi\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQr\Api\TicketQrApi\WebApi\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQr\Api\TicketQrApi\WebApi\obj\Debug\WebApi.csprojResolveAssemblyReference.cache
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQr\Api\TicketQrApi\WebApi\obj\Debug\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQr\Api\TicketQrApi\WebApi\obj\Debug\WebApi.csproj.CopyComplete
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQr\Api\TicketQrApi\WebApi\obj\Debug\WebApi.dll
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQr\Api\TicketQrApi\WebApi\obj\Debug\WebApi.pdb
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQrAngular\api\TicketQrApi\WebApi\bin\ApplicationInsights.config
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQrAngular\api\TicketQrApi\WebApi\bin\roslyn\csc.exe
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQrAngular\api\TicketQrApi\WebApi\bin\roslyn\csc.exe.config
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQrAngular\api\TicketQrApi\WebApi\bin\roslyn\csc.rsp
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQrAngular\api\TicketQrApi\WebApi\bin\roslyn\csi.exe
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQrAngular\api\TicketQrApi\WebApi\bin\roslyn\csi.rsp
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQrAngular\api\TicketQrApi\WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQrAngular\api\TicketQrApi\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQrAngular\api\TicketQrApi\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQrAngular\api\TicketQrApi\WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQrAngular\api\TicketQrApi\WebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQrAngular\api\TicketQrApi\WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQrAngular\api\TicketQrApi\WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQrAngular\api\TicketQrApi\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQrAngular\api\TicketQrApi\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQrAngular\api\TicketQrApi\WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQrAngular\api\TicketQrApi\WebApi\bin\roslyn\System.AppContext.dll
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQrAngular\api\TicketQrApi\WebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQrAngular\api\TicketQrApi\WebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQrAngular\api\TicketQrApi\WebApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQrAngular\api\TicketQrApi\WebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQrAngular\api\TicketQrApi\WebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQrAngular\api\TicketQrApi\WebApi\bin\roslyn\vbc.exe
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQrAngular\api\TicketQrApi\WebApi\bin\roslyn\vbc.exe.config
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQrAngular\api\TicketQrApi\WebApi\bin\roslyn\vbc.rsp
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQrAngular\api\TicketQrApi\WebApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQrAngular\api\TicketQrApi\WebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQrAngular\api\TicketQrApi\WebApi\bin\WebApi.dll.config
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQrAngular\api\TicketQrApi\WebApi\bin\WebApi.dll
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQrAngular\api\TicketQrApi\WebApi\bin\WebApi.pdb
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQrAngular\api\TicketQrApi\WebApi\bin\Antlr3.Runtime.dll
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQrAngular\api\TicketQrApi\WebApi\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQrAngular\api\TicketQrApi\WebApi\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQrAngular\api\TicketQrApi\WebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQrAngular\api\TicketQrApi\WebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQrAngular\api\TicketQrApi\WebApi\bin\Microsoft.AI.Web.dll
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQrAngular\api\TicketQrApi\WebApi\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQrAngular\api\TicketQrApi\WebApi\bin\Microsoft.ApplicationInsights.dll
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQrAngular\api\TicketQrApi\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQrAngular\api\TicketQrApi\WebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQrAngular\api\TicketQrApi\WebApi\bin\Newtonsoft.Json.dll
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQrAngular\api\TicketQrApi\WebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQrAngular\api\TicketQrApi\WebApi\bin\System.Web.Cors.dll
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQrAngular\api\TicketQrApi\WebApi\bin\System.Web.Helpers.dll
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQrAngular\api\TicketQrApi\WebApi\bin\System.Web.Http.Cors.dll
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQrAngular\api\TicketQrApi\WebApi\bin\System.Web.Http.dll
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQrAngular\api\TicketQrApi\WebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQrAngular\api\TicketQrApi\WebApi\bin\System.Web.Mvc.dll
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQrAngular\api\TicketQrApi\WebApi\bin\System.Web.Optimization.dll
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQrAngular\api\TicketQrApi\WebApi\bin\System.Web.Razor.dll
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQrAngular\api\TicketQrApi\WebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQrAngular\api\TicketQrApi\WebApi\bin\System.Web.WebPages.dll
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQrAngular\api\TicketQrApi\WebApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQrAngular\api\TicketQrApi\WebApi\bin\WebGrease.dll
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQrAngular\api\TicketQrApi\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQrAngular\api\TicketQrApi\WebApi\bin\System.Web.Http.Cors.xml
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQrAngular\api\TicketQrApi\WebApi\bin\Newtonsoft.Json.xml
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQrAngular\api\TicketQrApi\WebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQrAngular\api\TicketQrApi\WebApi\bin\System.Web.Helpers.xml
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQrAngular\api\TicketQrApi\WebApi\bin\System.Web.Http.xml
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQrAngular\api\TicketQrApi\WebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQrAngular\api\TicketQrApi\WebApi\bin\System.Web.Mvc.xml
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQrAngular\api\TicketQrApi\WebApi\bin\System.Web.Optimization.xml
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQrAngular\api\TicketQrApi\WebApi\bin\System.Web.Razor.xml
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQrAngular\api\TicketQrApi\WebApi\bin\System.Web.WebPages.xml
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQrAngular\api\TicketQrApi\WebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQrAngular\api\TicketQrApi\WebApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQrAngular\api\TicketQrApi\WebApi\bin\Antlr3.Runtime.pdb
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQrAngular\api\TicketQrApi\WebApi\bin\Microsoft.ApplicationInsights.xml
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQrAngular\api\TicketQrApi\WebApi\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQrAngular\api\TicketQrApi\WebApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQrAngular\api\TicketQrApi\WebApi\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQrAngular\api\TicketQrApi\WebApi\bin\Microsoft.AI.Web.xml
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQrAngular\api\TicketQrApi\WebApi\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQrAngular\api\TicketQrApi\WebApi\bin\es\System.Web.Helpers.resources.dll
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQrAngular\api\TicketQrApi\WebApi\bin\es\System.Web.Http.resources.dll
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQrAngular\api\TicketQrApi\WebApi\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQrAngular\api\TicketQrApi\WebApi\bin\es\System.Web.Mvc.resources.dll
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQrAngular\api\TicketQrApi\WebApi\bin\es\System.Web.Optimization.resources.dll
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQrAngular\api\TicketQrApi\WebApi\bin\es\System.Web.Razor.resources.dll
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQrAngular\api\TicketQrApi\WebApi\bin\es\System.Web.WebPages.resources.dll
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQrAngular\api\TicketQrApi\WebApi\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQrAngular\api\TicketQrApi\WebApi\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQrAngular\api\TicketQrApi\WebApi\obj\Debug\WebApi.csprojAssemblyReference.cache
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQrAngular\api\TicketQrApi\WebApi\obj\Debug\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQrAngular\api\TicketQrApi\WebApi\obj\Debug\WebApi.csproj.CopyComplete
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQrAngular\api\TicketQrApi\WebApi\obj\Debug\WebApi.dll
+C:\Users\mdiazs\Desktop\ProyectosAngular\TicketQrAngular\api\TicketQrApi\WebApi\obj\Debug\WebApi.pdb
